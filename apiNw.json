@@ -1,0 +1,80 @@
+{
+	"Armsnw": [
+		{
+			"tipoArma": "Armas de uma mao",
+			"cor": "#2C5C6B",
+			"armas": [
+				{
+					"nome": "Espada e Escudo",
+					"atributoPrincipal": "Força"
+				},
+				{
+					"nome": "Rapieira",
+					"atributoPrincipal": "Destreza"
+				},
+				{
+					"nome": "Machadinha",
+					"atributoQueUtiliza": "Força"
+				}
+			]
+		},
+		{
+			"tipoArma": "Armas de duas maos",
+			"cor": "#7DDFD2",
+			"armas": [
+				{
+					"nome": "Lança",
+					"atributoQueUtiliza": "Destreza"
+				},
+				{
+					"nome": "Grande Machado",
+					"atributoQueUtiliza": "Destreza"
+				},
+				{
+					"nome": "Martelo de guerra",
+					"atributoQueUtiliza": "Força"
+				}
+			]
+		},
+		{
+			"tipoArma": "Armas a distancia",
+			"cor": "#7DDFD2",
+			"armas": [
+				{
+					"nome": "Arco",
+					"atributoQueUtiliza": "Destreza"
+				},
+				{
+					"nome": "Mosquete",
+					"atributoQueUtiliza": "Destreza"
+				},
+				{
+					"nome": "Bacamarte",
+					"atributoQueUtiliza": "Destreza"
+				}
+			]
+		},
+		{
+			"tipoArma": "Armas mágicas",
+			"cor": "#7DDFD2",
+			"armas": [
+				{
+					"nome": "Bastão Flamejante",
+					"atributoQueUtiliza": "Inteligência"
+				},
+				{
+					"nome": "Bastão Vital",
+					"atributoQueUtiliza": "Foco"
+				},
+				{
+					"nome": "Manopla de Gelo",
+					"atributoQueUtiliza": "Inteligência"
+				},
+				{
+					"nome": "Manopla Imaterial",
+					"atributoQueUtiliza": "Foco"
+				}
+			]
+		}
+	]
+}
