@@ -1,9 +1,8 @@
 {
-
   "Armsnw": [
     {
       "tipoArma": "Armas de uma mao",
-	  "imagemArmas": "https://cdn.discordapp.com/attachments/888412507969052724/1150492346027356344/image.png",
+      "imagemArmas": "https://cdn.discordapp.com/attachments/888412507969052724/1150492346027356344/image.png",
       "cor": "#2C5C6B",
       "armas": [
         {
@@ -25,7 +24,7 @@
     },
     {
       "tipoArma": "Armas de duas maos",
-	  "imagemArmas": "https://cdn.discordapp.com/attachments/888412507969052724/1150492384493314108/image.png",
+      "imagemArmas": "https://cdn.discordapp.com/attachments/888412507969052724/1150492384493314108/image.png",
       "cor": "#7DDFD2",
       "armas": [
         {
@@ -48,13 +47,11 @@
           "atributoQueUtiliza": "Força",
           "fotoArma": "https://static.icy-veins.com/images/new-world/weapons/greatsword-small.jpg"
         }
-		
-		
       ]
     },
     {
       "tipoArma": "Armas a distancia",
-	  "imagemArmas": "https://cdn.discordapp.com/attachments/888412507969052724/1150492418379104275/image.png",
+      "imagemArmas": "https://cdn.discordapp.com/attachments/888412507969052724/1150492418379104275/image.png",
       "cor": "#7DDFD2",
       "armas": [
         {
@@ -76,7 +73,7 @@
     },
     {
       "tipoArma": "Armas mágicas",
-	  "imagemArmas": "https://cdn.discordapp.com/attachments/888412507969052724/1150492470036144251/image.png",
+      "imagemArmas": "https://cdn.discordapp.com/attachments/888412507969052724/1150492470036144251/image.png",
       "cor": "#7DDFD2",
       "armas": [
         {
