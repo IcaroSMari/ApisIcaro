@@ -1,80 +1,105 @@
 {
-	"Armsnw": [
-		{
-			"tipoArma": "Armas de uma mao",
-			"cor": "#2C5C6B",
-			"armas": [
-				{
-					"nome": "Espada e Escudo",
-					"atributoPrincipal": "Força"
-				},
-				{
-					"nome": "Rapieira",
-					"atributoPrincipal": "Destreza"
-				},
-				{
-					"nome": "Machadinha",
-					"atributoQueUtiliza": "Força"
-				}
-			]
-		},
-		{
-			"tipoArma": "Armas de duas maos",
-			"cor": "#7DDFD2",
-			"armas": [
-				{
-					"nome": "Lança",
-					"atributoQueUtiliza": "Destreza"
-				},
-				{
-					"nome": "Grande Machado",
-					"atributoQueUtiliza": "Destreza"
-				},
-				{
-					"nome": "Martelo de guerra",
-					"atributoQueUtiliza": "Força"
-				}
-			]
-		},
-		{
-			"tipoArma": "Armas a distancia",
-			"cor": "#7DDFD2",
-			"armas": [
-				{
-					"nome": "Arco",
-					"atributoQueUtiliza": "Destreza"
-				},
-				{
-					"nome": "Mosquete",
-					"atributoQueUtiliza": "Destreza"
-				},
-				{
-					"nome": "Bacamarte",
-					"atributoQueUtiliza": "Destreza"
-				}
-			]
-		},
-		{
-			"tipoArma": "Armas mágicas",
-			"cor": "#7DDFD2",
-			"armas": [
-				{
-					"nome": "Bastão Flamejante",
-					"atributoQueUtiliza": "Inteligência"
-				},
-				{
-					"nome": "Bastão Vital",
-					"atributoQueUtiliza": "Foco"
-				},
-				{
-					"nome": "Manopla de Gelo",
-					"atributoQueUtiliza": "Inteligência"
-				},
-				{
-					"nome": "Manopla Imaterial",
-					"atributoQueUtiliza": "Foco"
-				}
-			]
-		}
-	]
+
+  "Armsnw": [
+    {
+      "tipoArma": "Armas de uma mao",
+	  "imagemArmas": "https://cdn.discordapp.com/attachments/888412507969052724/1150492346027356344/image.png",
+      "cor": "#2C5C6B",
+      "armas": [
+        {
+          "nome": "Espada e Escudo",
+          "atributoPrincipal": "Força",
+          "fotoArma": "https://static.icy-veins.com/images/new-world/weapons/sword-small.jpg"
+        },
+        {
+          "nome": "Rapieira",
+          "atributoPrincipal": "Destreza",
+          "fotoArma": "https://static.icy-veins.com/images/new-world/weapons/rapier-small.jpg"
+        },
+        {
+          "nome": "Machadinha",
+          "atributoQueUtiliza": "Força",
+          "fotoArma": "https://static.icy-veins.com/images/new-world/weapons/hatchet-small.jpg"
+        }
+      ]
+    },
+    {
+      "tipoArma": "Armas de duas maos",
+	  "imagemArmas": "https://cdn.discordapp.com/attachments/888412507969052724/1150492384493314108/image.png",
+      "cor": "#7DDFD2",
+      "armas": [
+        {
+          "nome": "Lança",
+          "atributoQueUtiliza": "Destreza",
+          "fotoArma": "https://static.icy-veins.com/images/new-world/weapons/spear-small.jpg"
+        },
+        {
+          "nome": "Grande Machado",
+          "atributoQueUtiliza": "Destreza",
+          "fotoArma": "https://static.icy-veins.com/images/new-world/weapons/great-axe-small.jpg"
+        },
+        {
+          "nome": "Martelo de guerra",
+          "atributoQueUtiliza": "Força",
+          "fotoArma": "https://static.icy-veins.com/images/new-world/weapons/war-hammer-small.jpg"
+        },
+        {
+          "nome": "Espadão",
+          "atributoQueUtiliza": "Força",
+          "fotoArma": "https://static.icy-veins.com/images/new-world/weapons/greatsword-small.jpg"
+        }
+		
+		
+      ]
+    },
+    {
+      "tipoArma": "Armas a distancia",
+	  "imagemArmas": "https://cdn.discordapp.com/attachments/888412507969052724/1150492418379104275/image.png",
+      "cor": "#7DDFD2",
+      "armas": [
+        {
+          "nome": "Arco",
+          "atributoQueUtiliza": "Destreza",
+          "fotoArma": "https://static.icy-veins.com/images/new-world/weapons/bow-small.jpg"
+        },
+        {
+          "nome": "Mosquete",
+          "atributoQueUtiliza": "Destreza",
+          "fotoArma": "https://static.icy-veins.com/images/new-world/weapons/musket-small.jpg"
+        },
+        {
+          "nome": "Bacamarte",
+          "atributoQueUtiliza": "Destreza",
+          "fotoArma": "https://static.icy-veins.com/images/new-world/weapons/blunderbuss-small.jpg"
+        }
+      ]
+    },
+    {
+      "tipoArma": "Armas mágicas",
+	  "imagemArmas": "https://cdn.discordapp.com/attachments/888412507969052724/1150492470036144251/image.png",
+      "cor": "#7DDFD2",
+      "armas": [
+        {
+          "nome": "Bastão Flamejante",
+          "atributoQueUtiliza": "Inteligência",
+          "fotoArma": "https://static.icy-veins.com/images/new-world/weapons/fire-staff-small.jpg"
+        },
+        {
+          "nome": "Bastão Vital",
+          "atributoQueUtiliza": "Foco",
+          "fotoArma": "https://static.icy-veins.com/images/new-world/weapons/life-staff-small.jpg"
+        },
+        {
+          "nome": "Manopla de Gelo",
+          "atributoQueUtiliza": "Inteligência",
+          "fotoArma": "https://static.icy-veins.com/images/new-world/weapons/ice-gauntlet-small.jpg"
+        },
+        {
+          "nome": "Manopla Imaterial",
+          "atributoQueUtiliza": "Foco",
+          "fotoArma": "https://static.icy-veins.com/images/new-world/weapons/void-gauntlet-small.jpg"
+        }
+      ]
+    }
+  ]
 }
