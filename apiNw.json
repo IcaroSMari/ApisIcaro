@@ -17,7 +17,7 @@
         },
         {
           "nome": "Machadinha",
-          "atributoQueUtiliza": "Força",
+          "atributoPrincipal": "Força",
           "fotoArma": "https://static.icy-veins.com/images/new-world/weapons/hatchet-small.jpg"
         }
       ]
@@ -29,22 +29,22 @@
       "armas": [
         {
           "nome": "Lança",
-          "atributoQueUtiliza": "Destreza",
+          "atributoPrincipal": "Destreza",
           "fotoArma": "https://static.icy-veins.com/images/new-world/weapons/spear-small.jpg"
         },
         {
           "nome": "Grande Machado",
-          "atributoQueUtiliza": "Destreza",
+          "atributoPrincipal": "Destreza",
           "fotoArma": "https://static.icy-veins.com/images/new-world/weapons/great-axe-small.jpg"
         },
         {
           "nome": "Martelo de guerra",
-          "atributoQueUtiliza": "Força",
+          "atributoPrincipal": "Força",
           "fotoArma": "https://static.icy-veins.com/images/new-world/weapons/war-hammer-small.jpg"
         },
         {
           "nome": "Espadão",
-          "atributoQueUtiliza": "Força",
+          "atributoPrincipal": "Força",
           "fotoArma": "https://static.icy-veins.com/images/new-world/weapons/greatsword-small.jpg"
         }
       ]
@@ -56,17 +56,17 @@
       "armas": [
         {
           "nome": "Arco",
-          "atributoQueUtiliza": "Destreza",
+          "atributoPrincipal": "Destreza",
           "fotoArma": "https://static.icy-veins.com/images/new-world/weapons/bow-small.jpg"
         },
         {
           "nome": "Mosquete",
-          "atributoQueUtiliza": "Destreza",
+          "atributoPrincipal": "Destreza",
           "fotoArma": "https://static.icy-veins.com/images/new-world/weapons/musket-small.jpg"
         },
         {
           "nome": "Bacamarte",
-          "atributoQueUtiliza": "Destreza",
+          "atributoPrincipal": "Destreza",
           "fotoArma": "https://static.icy-veins.com/images/new-world/weapons/blunderbuss-small.jpg"
         }
       ]
@@ -78,22 +78,22 @@
       "armas": [
         {
           "nome": "Bastão Flamejante",
-          "atributoQueUtiliza": "Inteligência",
+          "atributoPrincipal": "Inteligência",
           "fotoArma": "https://static.icy-veins.com/images/new-world/weapons/fire-staff-small.jpg"
         },
         {
           "nome": "Bastão Vital",
-          "atributoQueUtiliza": "Foco",
+          "atributoPrincipal": "Foco",
           "fotoArma": "https://static.icy-veins.com/images/new-world/weapons/life-staff-small.jpg"
         },
         {
           "nome": "Manopla de Gelo",
-          "atributoQueUtiliza": "Inteligência",
+          "atributoPrincipal": "Inteligência",
           "fotoArma": "https://static.icy-veins.com/images/new-world/weapons/ice-gauntlet-small.jpg"
         },
         {
           "nome": "Manopla Imaterial",
-          "atributoQueUtiliza": "Foco",
+          "atributoPrincipal": "Foco",
           "fotoArma": "https://static.icy-veins.com/images/new-world/weapons/void-gauntlet-small.jpg"
         }
       ]
